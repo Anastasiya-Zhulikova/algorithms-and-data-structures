@@ -1,5 +1,3 @@
-//Сортировка выбором - ищется МАКСИМУМ (по заданию), вставляется в начало, сдвигается от начала на 1
-
 #include <iostream>
 #include <vector>
 
@@ -15,7 +13,6 @@ void selection_sort(vector<int>& arr, int n)
 		int ind;
 		ind = i;
 		
-		//Ищем МАКСИМУМ
 		for (int j=i+1; j<n; j++)
 		{
 			if (arr[j] > mx)
@@ -27,7 +24,6 @@ void selection_sort(vector<int>& arr, int n)
 		
 		if (i != ind)
 		{
-			//Поменяли с началом отсчёта
 			swap(arr[i], arr[ind]);
 		}
 	}
@@ -36,28 +32,23 @@ void selection_sort(vector<int>& arr, int n)
 
 int main()
 {
-	//Ввод массива
 	vector<int> arr;
     int number;
     int n = 0;
 
-    //Вводим числа по очереди
     while (cin >> number) 
     {	
     	n++;
-        arr.push_back(number); //Число в конец массива
+        arr.push_back(number);
         
-        //Если нажать Enter, то останавливаем ввод
         if (cin.peek() == '\n') 
         {
             break; 
         }
     }
     
-    //Сортировка
     selection_sort(arr, n);
     
-    //Вывод массива
     for (int i=0; i < n; i++)
     {
     	if (i != 0)
