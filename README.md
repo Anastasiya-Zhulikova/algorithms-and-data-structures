@@ -18,6 +18,8 @@
 
 [H. Сортировка точек](./DZ_SORTIROVKI/H_point_sort.py)  
 
+##Дополнительные задания №1. Ссылки на файлы.
+
 [I. Анаграммы](./DZ_SORTIROVKI/I_anagrams.py)  
 
 [J. Число]  
