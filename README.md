@@ -10,7 +10,7 @@
 
 [D. Сортировка пузырьком](./DZ_SORTIROVKI/D_bub_sort_2.cpp)  
 
-[E. Сортировка слиянием](./DZ_SORTIROVKI/F_quick_sort.py)  
+[E. Сортировка слиянием](./DZ_SORTIROVKI/E_merge_sort.py)  
 
 [F. Быстрая сортировка](./DZ_SORTIROVKI/F_quick_sort.py)  
 
