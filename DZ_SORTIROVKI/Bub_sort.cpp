@@ -1,5 +1,3 @@
-//Сравнивают два соседник, так n-1 раз, потом n - i - 1
-
 #include <iostream>
 #include <vector>
 
