@@ -1,5 +1,3 @@
-//Используем счётчик count_swapped
-
 #include <iostream>
 #include <vector>
 
