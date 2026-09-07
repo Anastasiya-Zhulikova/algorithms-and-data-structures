@@ -1,5 +1,3 @@
-#Про структуры в Python подсмотрела, честно. Первый раз вижу, что они вообще есть.
-
 from dataclasses import dataclass
 from math import sqrt
 
