@@ -2,7 +2,7 @@
 
 ## Домашняя работа №1. Ссылки на файлы.
 
-[A. Сортировка выбором](./DZ_SORTIROVKI/A_sel_sort.cpp)
+[A. Сортировка выбором](./DZ_SORTIROVKI/A_sel_sort.cpp) "\n"
 [B. Сортировка вставкой](./DZ_SORTIROVKI/B_ins_sort.cpp)
 [C. Сортировка пузырьком](./DZ_SORTIROVKI/C_bub_sort.cpp)
 [D. Сортировка пузырьком](./DZ_SORTIROVKI/D_bub_sort_2.cpp)
