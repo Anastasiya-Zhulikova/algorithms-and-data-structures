@@ -22,7 +22,7 @@
 
 [I. Анаграммы](./DZ_SORTIROVKI/I_anagrams.py)  
 
-[J. Число]  
+[J. Число](./DZ_SORTIROVKI/J_chislo.py)  
 
 [K. Анти-QuickSort]  
 
