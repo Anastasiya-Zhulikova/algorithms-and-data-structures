@@ -26,4 +26,4 @@
 
 [K. Анти-QuickSort]  
 
-[L. Такси](.DZ_SORTIROVKI/L_taxi.py)
+[L. Такси](./DZ_SORTIROVKI/L_taxi.py)
