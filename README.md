@@ -27,3 +27,9 @@
 [K. Анти-QuickSort](./DZ_SORTIROVKI/K_anti_quick_sort.py)
 
 [L. Такси](./DZ_SORTIROVKI/L_taxi.py)
+
+## Задания из Yandex №1. Инверсии.
+
+[Yandex_A. Количество инверсий](./DZ_SORTIROVKI/Yandex_A.py)
+
+[Yandex_B. Количество полуинверсий](./DZ_SORTIROVKI/Yandex_B.py)
