@@ -34,4 +34,4 @@
 
 [Yandex_B. Количество полуинверсий](./DZ_SORTIROVKI/Yandex_B.py)
 
-[Yandex_B. Подсчет транспозиций](./DZ_SORTIROVKI/Yandex_С.py)
+[Yandex_C. Подсчет транспозиций](./DZ_SORTIROVKI/Yandex_С.py)
