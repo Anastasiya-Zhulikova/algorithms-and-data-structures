@@ -24,6 +24,6 @@
 
 [J. Число](./DZ_SORTIROVKI/J_chislo.py)  
 
-[K. Анти-QuickSort]  
+[K. Анти-QuickSort](./DZ_SORTIROVKI/K_anti_quick_sort.py)
 
 [L. Такси](./DZ_SORTIROVKI/L_taxi.py)
