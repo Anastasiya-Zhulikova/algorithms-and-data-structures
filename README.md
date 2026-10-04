@@ -36,8 +36,9 @@
 
 [Yandex_C. Подсчет транспозиций](./DZ_SORTIROVKI/Yandex_С.py)
 
+---
 
-
+<br><br>
 <br><br>
 ---
 
