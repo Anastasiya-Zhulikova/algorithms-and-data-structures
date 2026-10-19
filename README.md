@@ -96,3 +96,17 @@
 [G. Сортировка вагонов](./DZ_STACK_QUEUE_DEQUE/G_sort_vagoni.py)
 
 [H. Гоблины и шаманы](./DZ_STACK_QUEUE_DEQUE/H_hoblins_and_shamans.py)
+
+## Дополнительные задания №2. Ссылки на файлы.
+
+[I. Шарики](./DZ_STACK_QUEUE_DEQUE/I_balls.py)
+
+[J. Конвейер]([./DZ_STACK_QUEUE_DEQUE/J_konveyer.py)
+
+[K. Хорошие дни]()
+
+[L. Гистограммма]()
+
+[M. Сообщающиеся сосуды]()
+
+[N. Игра в пьяницу](./DZ_STACK_QUEUE_DEQUE/N_piyanitsa.py)
