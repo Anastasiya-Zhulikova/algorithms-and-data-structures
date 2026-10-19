@@ -72,3 +72,27 @@
 [M. Провода](./DZ_BIN_SEARCH/M_provoda.py)
 
 [N. Вырубка леса](./DZ_BIN_SEARCH/N_kill_forest.py)
+
+
+---
+
+<br><br>
+---
+
+## Домашняя работа №3. СТЕК, ОЧЕРЕДЬ, ДЕК. Ссылки на файлы.
+
+[A. Стек с защитой от ошибок](./DZ_STACK_QUEUE_DEQUE/A_stack_without_errors.py)  
+
+[B. Правильная скобочная последовательность](./DZ_STACK_QUEUE_DEQUE/B_PSP.py)  
+
+[C. Постфиксная запись](./DZ_STACK_QUEUE_DEQUE/C_Postfix.py)  
+
+[D. Очередь с защитой от ошибок](./DZ_STACK_QUEUE_DEQUE/D_queue_without_errors.py)  
+
+[E. Дек с защитой от ошибок](./DZ_STACK_QUEUE_DEQUE/E_deque_without_errors.py)
+
+[F. Минимум на отрезке](./DZ_STACK_QUEUE_DEQUE/F_min.py)
+
+[G. Сортировка вагонов](./DZ_STACK_QUEUE_DEQUE/G_sort_vagoni.py)
+
+[H. Гоблины и шаманы](./DZ_STACK_QUEUE_DEQUE/H_hoblins_and_shamans.py)
