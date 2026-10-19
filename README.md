@@ -97,7 +97,7 @@
 
 [H. Гоблины и шаманы](./DZ_STACK_QUEUE_DEQUE/H_hoblins_and_shamans.py)
 
-## Дополнительные задания №2. Ссылки на файлы.
+## Дополнительные задания №3. Ссылки на файлы.
 
 [I. Шарики](./DZ_STACK_QUEUE_DEQUE/I_balls.py)
 
