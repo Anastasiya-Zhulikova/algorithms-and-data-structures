@@ -176,7 +176,7 @@ ok
 1
 bye
 ```
-### [Решение данной задачи]([./D_queue_without_errors.py))
+### [Решение данной задачи]([./D_queue_without_errors.py)
 
 
 
