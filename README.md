@@ -103,10 +103,42 @@
 
 [J. Конвейер]([./DZ_STACK_QUEUE_DEQUE/J_konveyer.py)
 
-[K. Хорошие дни]()
+[K. Хорошие дни]
 
-[L. Гистограммма]()
+[L. Гистограммма]
 
-[M. Сообщающиеся сосуды]()
+[M. Сообщающиеся сосуды]
 
 [N. Игра в пьяницу](./DZ_STACK_QUEUE_DEQUE/N_piyanitsa.py)
+
+
+
+---
+
+<br><br>
+---
+
+
+## Домашняя работа №3. СТЕК, ОЧЕРЕДЬ, ДЕК. Ссылки на файлы.
+
+[A. Хипуй!]([./DZ_STACK_QUEUE_DEQUE/A_stack_without_errors.py](./DZ_HEAP/A_Hipui.py)  
+
+[B. Пирамидальная сортировка](./DZ_HEAP/B_piramidal_sort.py)  
+
+[C. Пирамида (минимум)](./DZ_HEAP/C_piramida_min.cpp)  
+
+[D. Пирамида (максимум)](./DZ_HEAP/D_piramida_max.py)  
+
+[E. Коммерческий калькулятор](./DZ_HEAP/E_commercial_calc.py)
+
+[F. Таможня](./DZ_HEAP/F_tamozna.py)
+
+[G. Вычислительная ихтиология](./DZ_HEAP/G_ihtiology.py)
+
+## Дополнительные задания №4. Ссылки на файлы.
+
+[J. Менеджер памяти](./DZ_HEAP/J_tetris.py)
+
+[J. Машинки (AB)]
+
+[K. Strategy tetris]
