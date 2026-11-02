@@ -121,7 +121,7 @@
 
 ## Домашняя работа №4. КУЧА. Ссылки на файлы.
 
-[A. Хипуй!]([./DZ_STACK_QUEUE_DEQUE/A_stack_without_errors.py](./DZ_HEAP/A_Hipui.py)  
+[A. Хипуй!](./DZ_HEAP/A_Hipui.py)  
 
 [B. Пирамидальная сортировка](./DZ_HEAP/B_piramidal_sort.py)  
 
